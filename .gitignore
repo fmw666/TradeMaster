@@ -1,0 +1,10 @@
+# directory or file to be ignored by git
+node_modules/
+__pycache__/
+venv/
+
+*.log
+*.pyc
+*.pyo
+
+
